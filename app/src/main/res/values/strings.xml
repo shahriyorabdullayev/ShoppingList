@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cleanarch1</string>
+
+    <string name="str_add_new_shop_item">Add new shop item</string>
+    <string name="str_name">Name :</string>
+    <string name="str_count">Count :</string>
+    <string name="str_save">Save</string>
+
+    <string name="str_error_input_name">Invalid name</string>
+    <string name="str_error_input_count">Invalid count</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
